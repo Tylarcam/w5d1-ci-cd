@@ -1,4 +1,4 @@
-from app.calculator import add, safe_divide
+from test.calculator import add, safe_divide
 import math
 
 def test_add_simple():
