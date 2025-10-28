@@ -38,4 +38,4 @@ jobs:
     if: ${{ success() }}
     steps:
       - name: Fake deploy to staging
-        run: echo "Deploying to staging... ✅
+        run: echo "Deploying to staging... ✅"
